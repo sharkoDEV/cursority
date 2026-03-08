@@ -1,0 +1,11 @@
+{
+  "name": "com.cursority.cursorlike",
+  "version": "0.1.0",
+  "displayName": "CursorLike Editor Assistant",
+  "description": "Unity Editor chatbot inspired by Cursor with project and scene edit actions powered by OpenRouter.",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "cursority"
+  }
+}
